@@ -22,5 +22,21 @@ pip install python-dotenv
 -------
 
 
+pip freeze > requirements.txt
+
+-----
+for install 
+
+pip install -r requirements.txt
+
+---
+make main.py
+
+
+-----
+
+flas run
+
+
 
 

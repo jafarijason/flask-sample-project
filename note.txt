@@ -37,6 +37,40 @@ make main.py
 
 flas run
 
+for activate debuge 
+.flaskenv must add 
+FLASK_DEBUG=1 
+
+-----
+we want to make enrollment application
+
+------
+make folder application 
+
+create file  __init__.py in the application
+
+-----
+make two  folder on application:
+
+templates 
+and 
+statics
+
+
+/////
+
+move hole code from main.py to __init__.py
+
+and import app from aplication in main.py
+
+------
+after that  
+make 3 folders in statics 
+images
+css
+js
+
+
 
 
 

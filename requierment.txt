@@ -1,1 +1,26 @@
-111 
+ virtualenv.exe .env
+
+  .env\Scripts\activate.bat
+   pip install flask
+----
+configure flask:
+
+Creaate project folder 
+
+----
+
+pip install flask-wtf
+
+-------
+make file .flaskenv
+add this line o this file 
+
+FLASK_ENV=develoment
+FLASK_APP=main.py
+-------
+pip install python-dotenv
+-------
+
+
+
+

@@ -70,6 +70,25 @@ images
 css
 js
 
+-----
+
+now we shoud make config file
+config.py
+and routes.py
+
+make config.py
+
+///
+make file routes.py in application
+
+/// 
+ another things must be follow by code samole 
+ .
+
+ so that bye
+
+
+
 
 
 
